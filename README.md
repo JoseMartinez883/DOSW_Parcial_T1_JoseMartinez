@@ -13,6 +13,7 @@ Evidencias de acceso de Draw y Figma
 
 ![EvidenciaCompileMaven.png](DOSW-ParcialT1/docs/images/EvidenciaCompileMaven.png)
 
+
 ## Punto 1 - Diagrama de contexto C4
 
 ![DiagramaContextC4.png](DOSW-ParcialT1/docs/images/DiagramaContextC4.png)
@@ -60,6 +61,29 @@ Para: Adaptar la comida exactamente a mis gustos personales.
 Criterios de Aceptación:
 - Al seleccionar un producto, el sistema debe mostrar los extras compatibles disponibles.
 - El precio y el resumen del producto deben actualizarse en tiempo real al agregar o quitar un extra.
+
+
+## Evidencias de acceso de Draw y Figma
+
+Link de Figma: https://www.figma.com/make/OwXVrVbK4jZsqfI6c6aAzT/Cafeter%C3%ADa-responsive-app-design?t=eimuvQ4YP6KTHBMx-1
+
+![DrawEvidence.png](DOSW-ParcialT1/docs/images/DrawEvidence.png)
+
+![FigmaEvidence.png](DOSW-ParcialT1/docs/images/FigmaEvidence.png)
+
+![EvidenciaCompileMaven.png](DOSW-ParcialT1/docs/images/EvidenciaCompileMaven.png)
+
+# Evidencia Figma y Analisis Requerimientos
+
+![InitialScreenFigma.png](DOSW-ParcialT1/docs/images/InitialScreenFigma.png)
+
+![InitialScreenFigma.png](DOSW-ParcialT1/docs/images/InitialScreenFigma.png)
+
+![UniversityFoodHubScreen.png](DOSW-ParcialT1/docs/images/UniversityFoodHubScreen.png)
+
+![ConfirmProduct.png](DOSW-ParcialT1/docs/images/ConfirmProduct.png)
+
+
 
 
 
