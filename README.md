@@ -14,6 +14,6 @@ Evidencias de acceso de Draw y Figma
 ![EvidenciaCompileMaven.png](DOSW-ParcialT1/docs/images/EvidenciaCompileMaven.png)
 
 
-## Punto 1
+## Punto 1 - Diagrama de contexto C4
 
-![img.png](img.png)
+![DiagramaContextC4.png](DOSW-ParcialT1/docs/images/DiagramaContextC4.png)
