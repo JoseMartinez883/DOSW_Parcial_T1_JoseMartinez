@@ -13,6 +13,16 @@ Evidencias de acceso de Draw y Figma
 
 ![EvidenciaCompileMaven.png](DOSW-ParcialT1/docs/images/EvidenciaCompileMaven.png)
 
+## Requerimientos
+
+### Requerimientos funcionales
+- Calcular el precio final en tiempo real y mostrar un resumen del pedido
+- Un pedido puede contener hasta 5 productos distintois, cada uno con sus propios extras y una preferencia de entrega (buider)
+- Un producto base puede tener varios personalizables o extras (decorator)
+
+### Requerimientos no funcionales
+- Tipografía: La tipografia de la aplicacion debe ser Poppings ](Google Fonts)
+- Colores de la cafetería: Azul (#1B3A5C) y Dorado (#C67A00)
 
 ## Punto 1 - Diagrama de contexto C4
 
