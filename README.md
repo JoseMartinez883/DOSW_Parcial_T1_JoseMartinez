@@ -33,7 +33,7 @@ Evidencias de acceso de Draw y Figma
 
 ### Historia de Usuario 1
 
-![UseCase01.png](DOSW-ParcialT1/docs/images/UseCase01.png)
+![UseCase01.png](DOSW-ParcialT1/docs/uml/UseCase01.png)
 ---
 
 Título: Crear un pedido múltiple y personalizado.
@@ -48,7 +48,7 @@ Criterios de Aceptación:
 
 ### Historia de Usuario 2
 
-![UseCase02.png](DOSW-ParcialT1/docs/images/UseCase02.png)
+![UseCase02.png](DOSW-ParcialT1/docs/uml/UseCase02.png)
 ---
 
 Título: Modificar un producto con ingredientes extra.
